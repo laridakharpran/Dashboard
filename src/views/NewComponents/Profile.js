@@ -32,7 +32,7 @@ const theme = createTheme({
 const defaultUser = {
     avatarUrl: '', // can be url or local base64 image string
     name: 'Larida',
-    email: 'larida@gmail.com',
+    email: 'laridakharpran@gmail.com',
     phone: '+91 9862613252 ',
     bio: 'Full stack developer with 5 years experience in React and Node.js.',
     skills: ['React', 'Node.js', 'Material UI', 'JavaScript', 'TypeScript'],
